@@ -1,0 +1,529 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The conspiracy of guts and brains: or An answer to the twinn-shams</title>
+            <author>T. R. (Thomas Rogers), 1660-1694.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57568</idno>
+            <idno type="STC">Wing R1842B</idno>
+            <idno type="STC">ESTC R218063</idno>
+            <idno type="EEBO-CITATION">99829689</idno>
+            <idno type="PROQUEST">99829689</idno>
+            <idno type="VID">34132</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57568)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34132)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2001:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The conspiracy of guts and brains: or An answer to the twinn-shams</title>
+                  <author>T. R. (Thomas Rogers), 1660-1694.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and are to be sold by the booksellers of London and Westminster. Price 3d.,</publisher>
+                  <pubPlace>[[London] :</pubPlace>
+                  <date>[1694]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>By Thomas Rogers.</note>
+                  <note>Imprint from colophon; place and date of publication from Wing.</note>
+                  <note>In verse.</note>
+                  <note>Advertisement at foot of p. 12.</note>
+                  <note>Formerly Wing R1830.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  1689-1714 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:34132:1" rendition="simple:additions"/>
+            <head>THE CONSPIRACY OF <hi>GUTS</hi> and <hi>BRAINS:</hi> OR AN ANSWER TO THE Twinn-Shams.</head>
+            <lg>
+               <l>EACH Grave Oracular Wight about the Town,</l>
+               <l>Has learnt to rail and bark againſt the Gown;</l>
+               <l>And Light-within-men with a full Mouth'd cry</l>
+               <l>Run down the Heights of Church and Monarchy:</l>
+               <l>Theſe are the Rods and Axes, Whips and Arms,</l>
+               <l>The fancied Cauſes of Old <hi>England's</hi> harms:</l>
+               <pb facs="tcp:34132:2" rendition="simple:additions"/>
+               <pb n="1" facs="tcp:34132:2" rendition="simple:additions"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <l>
+                  <pb n="2" facs="tcp:34132:3"/>
+Away with ſuch poor Bards to ſome fit School;</l>
+               <l>Send e'm to th' Wiſe, and leſs fantaſtick Owl:</l>
+               <l>He ne'er do'es challenge the ſweet Nightingale,</l>
+               <l>With his coarſe Notes, and downright Evening-Tale,</l>
+               <l>Nature is his Director; and when He</l>
+               <l>Holds forth by Night, either in Barn, or Tree,</l>
+               <l>Ne'er dreams of Inward Light, or turns vain Fool;</l>
+               <l>Ne'er did he yet pretend to be a gifted Owl;</l>
+               <l>And ſurely He's much wiſer of the Two,</l>
+               <l>That do's at Nature's Call, ſing Hoo, hoo, hoo,</l>
+               <l>Than he that 'gainſt all Natural Light do's bawl,</l>
+               <l>And play the Fool ith language of Saint <hi>Paul.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Thoſe boding Ills, which Men of Thought do feare,</l>
+               <l>Worſe than the dark Events of gen'rous War,</l>
+               <l>Come from the Chair Infallible, and Tub,</l>
+               <l>From Subtle Jeſuite, and unthinking Mob.</l>
+            </lg>
+            <lg>
+               <l>Whate'er Mens hearts do's with dire horrour ſhake,</l>
+               <l>The Wolf in peaceful garb, the gilded Snake,</l>
+               <l>Thunder and Storms, and rank infernal Spite,</l>
+               <l>Are ſumm'd up in one Word, a Jeſuite:</l>
+               <l>A Jeſuite! Legion thou mak'ſt me ſtart;</l>
+               <l>Ith' Name of Holy Mother Church, What art?</l>
+               <l>Giant or Monſter, or ſome Goblin dreſs't</l>
+               <l>In Angels Colours fair above the reſt</l>
+               <l>Of the Black Order's; like th' Old Serpent wiſe,</l>
+               <l>Or <hi>Romiſh</hi> Imp in Proteſtant Diſguiſe?</l>
+               <l>For ſure thy Name's a Charm ſhou'd conjure up</l>
+               <l>Old <hi>Gregory</hi> the Great, and all the Troop</l>
+               <l>Of his Admirers, force 'em to diſown</l>
+               <l>Th' inglorious Name of Reformation.</l>
+               <l>
+                  <pb n="3" facs="tcp:34132:3"/>
+Of all the Ills that e're came Imp't from Hell,</l>
+               <l>There's none more dangerous than Phanatick Zeal.</l>
+               <l>The Great Phyſitian of our Soul cou'd nee'er</l>
+               <l>Vanquiſh this kind of Raging Calenture:</l>
+               <l>Whores, Debauchees, and Devils he reſtrain'd,</l>
+               <l>But Scribes and Phariſees his Pow'r diſdain'd,</l>
+               <l>Like Great <hi>Alphonſo,</hi> who ſo proudly taught</l>
+               <l>Omniſcience doted, when the World was wrought,</l>
+               <l>They did convincing Miracles out-face,</l>
+               <l>And ſought to bring the Godhead to diſgrace:</l>
+               <l>Such wild Religious Frenzy then did rage;</l>
+               <l>And ſuch lew'd Zeal infects the preſent Age:</l>
+               <l>Bawds, Common Rogues, and Villains ſtill relent,</l>
+               <l>Through fear of Hell or Gibbet can repent:</l>
+               <l>But Jeſuits Eternally drive on,</l>
+               <l>And count the Axe and Halter their Renown:</l>
+               <l>As if <hi>Zacheus</hi>-like, they climb'd the Tree,</l>
+               <l>Th' Al'mighty Saviour of the World to ſee:</l>
+               <lg>
+                  <l>They are God's Holy <hi>Jacobs,</hi> and can 'ſpy</l>
+                  <l>Angels deſcending to 'em from an High,</l>
+                  <l>When they the Ladder mount, when call'd to dye.</l>
+               </lg>
+               <l>Kind Heav'n that wou'd reſtrain 'em is drawn in</l>
+               <l>To be a Friend and Party in the Sin:</l>
+               <l>Conſcience it ſelf turns bawd to ſuch Abuſes,</l>
+               <l>Each Luſt is ſet apart for Pious Uſes.</l>
+            </lg>
+            <lg>
+               <l>Such are the Men, that in Religious Faſhion</l>
+               <l>wou'd at once Ruine and Reform our Nation;</l>
+               <l>That Thunder at us with Inſulting Breath,</l>
+               <l>Vengeance and Woes, a Pulpitful of Death.</l>
+               <l>Damnation ſweeps us all: They're not ſo civil</l>
+               <l>To us, as <hi>Origen</hi> was to the Devil.</l>
+               <l>
+                  <pb n="4" facs="tcp:34132:4"/>
+While to themſelves moſt happy and ſecure,</l>
+               <l>No Thought, no Word, or Action is Impure;</l>
+               <l>They're meek while they do Damn, kind when they kill,</l>
+               <l>And Holy, while they Act the groſſeſt Ill;</l>
+               <l>Moſt Rare Defenders of the Publick Good,</l>
+               <l>Ev'n while they Revel in a Kingdom's Blood.</l>
+            </lg>
+            <lg>
+               <l>Such Saintſhip is meer Juggle and Romance;</l>
+               <l>Such Peace of Soul is Lethargy and Trance,</l>
+               <l>Their Worſhip's Mummery, their Creed's a Spell,</l>
+               <l>Their Faith is Witchcraft, and a Type of Hell:</l>
+               <l>And ſhould they Dying ſuch vile Thoughts, retain,</l>
+               <l>Though they were plac't in Heav'n, they'd fall again:</l>
+               <l>They'd ſoon Commence Incendiaries there,</l>
+               <l>And raiſe a new Commotion 'bove the Sphear.</l>
+            </lg>
+            <lg n="2">
+               <head>2.</head>
+               <l>Bleſs me what Ills have my Fore-Fathers done?</l>
+               <l>Or what have I tranſacted 'bove the Sun,</l>
+               <l>Ith' pre-Exiſtent State of Humane Souls,</l>
+               <l>When Spirits firſt tranſgreſt their Maker's Rules</l>
+               <l>That I ſhould live Sentenc't and Doom'd to ſee</l>
+               <l>Such Solemn, Stanch, Religious Knavery;</l>
+               <lg>
+                  <l>To ſee a Dire Impoſtor act the Fool,</l>
+                  <l>And Tumbler-like ſhew Tricks upon a Stool,</l>
+                  <l>Sweat three long hours, and then ſit down and cool:</l>
+               </lg>
+               <lg>
+                  <l>To hear a <hi>Roman</hi> Cut-Throat in Diſguiſe</l>
+                  <l>With Holy Wheedle and Embroyder'd Lies,</l>
+                  <l>The poor Deluded Mobile Surprize.</l>
+               </lg>
+               <l>
+                  <pb n="5" facs="tcp:34132:4"/>
+How are good People raviſht at the ſight,</l>
+               <l>Legerdemain oth' Sanctimonious Wight,</l>
+               <l>When he with pow'rful Sin-confounding Face,</l>
+               <l>A Gracious Wink, ſoft Leer, and Whining Grace</l>
+               <l>Has done his Righteous Cant? Ah, verily</l>
+               <l>'Tis a good Man, cryes each Profeſſing She;</l>
+               <l>An Upright, Broken-Hearted, Gifted Man,</l>
+               <l>My over-ſhadow'd Hear's Soul-dead'ning pain</l>
+               <l>Is ſtart aſide at Words that came along,</l>
+               <l>Like Fatneſs, Oyl, and Marrow from his Tongue:</l>
+               <l>The precious Oyntment of Soul-ſearching Grace</l>
+               <l>Ran down his Soul, as ſweat ran down his Face:</l>
+               <l>O nothing's ſure ſo ſweet and powerful</l>
+               <l>As this Divine Anointing of the Soul</l>
+               <l>Then ſpeaks a Brother Sanctifi'd and Wiſe,</l>
+               <l>A Spiritual Light within me do's ariſe,</l>
+               <l>Such as ſelf ſeeking Hirelings can't infuſe,</l>
+               <l>That ſinfull Forms, and vain Aprocypha uſe:</l>
+               <l>What Wiſdom can ſuch graceleſs ones inherit,</l>
+               <l>That Preach without th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Licence of the Spirit?</l>
+               <l>This Zealous Light-Infuſing Man of Grace</l>
+               <l>Has ta'ne my Carnal Eyes quite from my Face;</l>
+               <l>Taught my Regenerate Eye-ſight to behold</l>
+               <l>No things that favour rankly of this World,</l>
+               <l>But that above, where Righteous Brother <hi>Del,</hi>
+               </l>
+               <l>
+                  <hi>Pym, Hobſon, Hacket, Field,</hi> and <hi>Debman</hi> dwell.</l>
+               <l>He taught us to Inſtruct our Souls by Night</l>
+               <l>With Prayer of Faith, and Word of Inward Light;</l>
+               <l>And then proud <hi>Babylon's</hi> downfall we ſhall ſee,</l>
+               <l>For why, the Choſen of the Lord are we:</l>
+               <l>Thouſands have ſigh'd, Ten Thouſands in the Land</l>
+               <l>Have wiſh'<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the days of <hi>Sion</hi> were at hand:</l>
+               <lg>
+                  <pb n="6" facs="tcp:34132:5"/>
+                  <l>Lately Mob met, and Pin man from a Stall</l>
+                  <l>Cry'd Sufferings, Sufferings (Lord!) Tyrannical</l>
+                  <l>Ah, Brethren! Carnal Pow'rs muſt have a fall:</l>
+               </lg>
+               <l>Then many a Tear did drop, and many a Sigh,</l>
+               <l>Enough to raiſe a Fogg ith' room, did fly.</l>
+               <l>Mean time ith' midſt oth' Prick-Ear'd Crowd did ſtand</l>
+               <l>Mob's Secretary, call'd the Short-hand-Man;</l>
+               <lg>
+                  <l>A Scribe in Querpo with a ſhort-cut Cloak,</l>
+                  <l>And Sage Prophetick Beard, which made him look</l>
+                  <l>Like Fam'd Philoſopher's Phiz in Fortune Book.</l>
+               </lg>
+               <l>His truſty head was cover'd with blurr'd Skin,</l>
+               <l>One ſide beſpake him <hi>Midas,</hi> t'other <hi>Pryn:</hi>
+               </l>
+               <l>With ſide-long Nod it ſometimes ſeem'd to rowl,</l>
+               <l>Like an o're-leaded, or ill-bias't Bowl.</l>
+               <lg>
+                  <l>A <hi>Julian</hi>'s Leer, and Ominous Grimace</l>
+                  <l>This Minor Prophet had, you ſoon wou'd trace</l>
+                  <l>The Lines of Reformation in his Face.</l>
+               </lg>
+               <l>Meagre and Thin, like Benedict in Cell,</l>
+               <l>When Devil in a Pet had broke his Bell.</l>
+            </lg>
+            <lg>
+               <l>He had, to note his Eminence and Fame</l>
+               <l>Some hardiſh Sinner-ſhaking Chriſtian Name;</l>
+               <l>Far beyond <hi>Habakkuk</hi> or <hi>Obadiah,</hi>
+               </l>
+               <l>The Doughty Armour-bearer to <hi>Goliah</hi>
+               </l>
+               <l>Look't not ſo fell: A Superſtitious Wight</l>
+               <l>Had croſs'd himſelf at the portentous ſight.</l>
+               <lg>
+                  <l>His Left Hand Book, his Right a Pen did bear;</l>
+                  <l>Two Pens in Ambuſcade, within Crop't Hair,</l>
+                  <l>Above the Hilts were ſtuck behind notch't Ear.</l>
+               </lg>
+               <l>At ev'ry pon'drous Sentence, and each proof</l>
+               <l>He wrote; yet knew to ſtop at ev'ry Cough:</l>
+               <l>
+                  <pb n="7" facs="tcp:34132:5"/>
+So well inſtructed Steed will ſtand or go,</l>
+               <l>At Driver's Signal giv'n by Jee or Ho.</l>
+               <l>It ſeems this Holy Penman (ſo he's ſtil'd)</l>
+               <l>Shew'd ſtrange Prophetick Omens, when a Child;</l>
+               <l>At Two years old, and half, the Suckling Saint</l>
+               <l>Before he well could ſpeak, had learn't to Cant:</l>
+               <l>It look demurely, made a hideous Game</l>
+               <l>At Rites and Forms; and trembled at the Name</l>
+               <l>Of Horned Beaſt; as if <hi>Mad Tom</hi> had blown</l>
+               <l>Or Bug-bear Sow gelder were come to Town.</l>
+            </lg>
+            <lg>
+               <l>He got his Fame by a kind hurt ith' Skull,</l>
+               <l>And ſoon did Wiſe Commence by being Dull</l>
+               <l>So a Fam'd<note n="*" place="bottom">The Famous Dr. <hi>Willis</hi> gives an account of a Fool be<g ref="char:EOLhyphen"/>longing to the Court of <hi>Corduba,</hi> that in the height of a Malignant Feavour became wonderfully Acute (the heat of the Diſtemper diſſipating the Miſts and Clouds that oppreſt his Brain before) and continued ſo to the Day of his Death.</note> Idiot ith' Court of <hi>Spain</hi>
+               </l>
+               <l>Grew up a Wit by a Diſeaſe ith' Brain;</l>
+               <l>And <hi>Loyola</hi> by being Craiz'd and Lame</l>
+               <l>The Authour of a Mighty Sect became:</l>
+               <l>Now our Renown'd and Perillous Scribe's become</l>
+               <l>The Great Shop-Theologue of all the Town:</l>
+               <l>And, in purſuit of Holy Teacher's Rules,</l>
+               <l>Leads on a Pack of dang'rous Luſtie Tools.</l>
+               <l>If he but ſpeak, loud Slaves ſhall make Reply,</l>
+               <l>And Thund'ring Zealots ſhake the Trembling Skie;</l>
+               <l>They that cry Nails, and Knives from Door to Door,</l>
+               <l>Shall ſtart up Grand Reformers in an hour;</l>
+               <l>
+                  <pb n="8" facs="tcp:34132:6"/>
+And all by Light infus'd: As once a Clown</l>
+               <l>Fancied his<note n="*" place="bottom">
+                     <hi>Burton. Melanc.</hi> (out of <hi>Lud. Viv.</hi>) if I well remem<g ref="char:EOLhyphen"/>ber) tells of an honeſt well-meaning Countrey Fellow, riding upon an Aſs over a River by Night; The Image of the Moon appearing in the Water, and the Aſs chancing to drink, on a ſudden a Cloud interpoſed, and the Moons Face diſappear'd; <g ref="char:V">Ʋ</g>pon which the Timerous Swain, thinking the Beaſt had devour'd it, cut her open, to find out the Moon again, and reſtore it to the World.</note> Aſs had ſwallow'd up the Moon.</l>
+            </lg>
+            <lg>
+               <l>In the laſt place, to help the Brethren's wants,</l>
+               <l>Joyns a long Train of Under-graduate Saints,</l>
+               <l>Call'd<note n="†" place="bottom">A True Moderate Man is an Excellent and Laudable Character: But here I ſpeak of the Common Abuſive Senſe of the words: Which I thought fit to ſubjoyn, to prevent Knackiſh Conſtructions.</note> Moderate Men; of Humane kind the blot;</l>
+               <l>A Mongrel Brood 'twixt <hi>Engliſh-man</hi> and <hi>Scot:</hi>
+               </l>
+               <l>A Medley Rout, a Parti-colour'd Pack;</l>
+               <l>Like Tawny 'twixt a White Man and a Black.</l>
+               <l>Equivocal Non ſenſe, ſprung from Clouds and Dreams!</l>
+               <l>For ev'ry Sect's a mean betwixt Extreams.</l>
+               <l>The <hi>Jew,</hi> the <hi>Papalin,</hi> and <hi>Muſſel-Man</hi>
+               </l>
+               <l>May all lay claim to th' Golden Name of Mean.</l>
+               <l>Thus half Wit is of middle Excellence</l>
+               <l>'Twixt down-right Folly, and Exalted Senſe:</l>
+               <l>
+                  <pb n="9" facs="tcp:34132:6"/>
+And th' Airy Kingdom where Black Daemons dwell,</l>
+               <l>Is own'd a middle Stage 'twixt Heav'n and Hell.</l>
+            </lg>
+            <lg>
+               <l>The Spruce beſpangled Fop, that pores on Miſs,</l>
+               <l>And ſells his Manly Freedom for a Kiſs,</l>
+               <l>Who free from future harms, and voy'd of fears,</l>
+               <l>His Heav'n like <hi>Atlas,</hi> on his Shoulders wears,</l>
+               <l>And ſhews his Wiſdom chiefly in his Dreſs,</l>
+               <l>On which depends his Fame, and Happyneſs;</l>
+               <l>Is ſcarce more vile than that Vain-glorious Clod,</l>
+               <l>That plays with decent forms, before his God.</l>
+               <l>Miſchief's his Darling Province and Delight,</l>
+               <l>He go's to Church not out of Zeal, but Spite:</l>
+               <l>He quarrels with the Pray'rs which he do's uſe,</l>
+               <l>And what he ſwallows, up again he Spews:</l>
+               <l>He Nauſeates Manna, Loaths his daily Food;</l>
+               <l>And truly hath no Stomach to be good.</l>
+               <lg>
+                  <l>The Church which he frequents, he ſeeks t' undoe,</l>
+                  <l>By which dull Ambidexter let's you know,</l>
+                  <l>His higheſt flights of Zeal are Paint and Show.</l>
+               </lg>
+               <l>Thus is he, (for he knows not this we hope)</l>
+               <l>Blind Fidler to the Jeſuite and the Pope.</l>
+            </lg>
+            <lg>
+               <l>By him poor Honeſt <hi>Tobit</hi>'s left ith' Lurch,</l>
+               <l>And with his Dog laſh't,, and turn'd out oth' Church:</l>
+               <l>
+                  <hi>Bel</hi> and the <hi>Dragon</hi> too he do's Impeach,</l>
+               <l>Like him that took <hi>Cabala</hi> for a Witch:</l>
+               <l>A Picture on a Wall, or Window ſpread,</l>
+               <l>Confounds him worſe than Hag <hi>Meduſa's</hi> head;</l>
+               <l>
+                  <pb n="10" facs="tcp:34132:7"/>
+And makes him puling, ſick, and languiſhing,</l>
+               <l>As Image once did<note n="*" place="bottom">The <hi>Scottiſh</hi> Hiſtory's tell us, that King <hi>Duff</hi>'s Sick<g ref="char:EOLhyphen"/>neſs was the Effect of Witchcraft; and occaſion'd by an Image of Wax roaſted at a diſtance from him: As the Image waſted, ſo did his Body conſume, and his Spirits fail: But the Plot being diſcovered, and the Image taken, and remov'd, the Diſtemper went off by degrees.</note> 
+                  <hi>Duffe,</hi> a <hi>Scottiſh</hi> King.</l>
+            </lg>
+            <lg>
+               <l>But above all, he ſhoots his Scorn and Pride</l>
+               <l>Againſt his own (ah! too conforming) guide:</l>
+               <l>He joyns with zealous Goſſips to run down</l>
+               <l>The poor Ungratious Parſon of the Town,</l>
+               <l>And with a Fate-denouncing brow can preach</l>
+               <l>Judgment, and Woe, to th' Unregenerate Wretch:</l>
+            </lg>
+            <lg>
+               <l>The Graveſt Saints in Corners ſweetly joyn,</l>
+               <l>Club o'er the Creature, and Cabal in Wine:</l>
+               <l>Siſters with Caudles ſafely may prepare</l>
+               <l>Dear Holder-forth for a New Spiritual War,</l>
+               <l>And with ſtrong Cordials arm the thund'ring Wight,</l>
+               <l>As <hi>Dutch</hi> drink Brandy when they go to fight:</l>
+               <l>But if the Man in <hi>Black</hi> but chance to meet</l>
+               <l>With Friend, to ſacrifice to Mirth and Wit;</l>
+               <l>Each ſneering Fop lies ſquibbing at his Fame,</l>
+               <l>And brands him with ſome Antichriſtian Name:</l>
+               <lg>
+                  <l>If in his Life ſeav'n times (as may the beſt)</l>
+                  <l>He chance to fall; his very Name's a Jeſt;</l>
+                  <l>He's dubb'd the Man of Sin, and thought the Beaſt.</l>
+               </lg>
+               <l>
+                  <pb n="11" facs="tcp:34132:7"/>
+Nay, if he riſe but up to Sol'mon's Rule,</l>
+               <l>Is gay and pleaſant, he's a Carnal Fool;</l>
+               <l>While he, that's drunk with Frantick Zeal and Rage,</l>
+               <l>Is th' only wiſe and ſober Man oth' Age.</l>
+               <l>Poor <hi>Noah, David, Lot,</hi> and good Saint <hi>Paul</hi>
+               </l>
+               <l>By our Preciſians rules do ſentenc't fall;</l>
+               <l>While Scribes and Phariſees alone poſſeſs</l>
+               <l>The Seats of Glory, and the Land of Bliſs.</l>
+               <lg>
+                  <l>I challenge all Mankind to prov't untrue,</l>
+                  <l>Should Chriſt himſelf his Life on Earth renew,</l>
+                  <l>They'd call him Bibber and Deceiver too:</l>
+               </lg>
+               <l>He would their Spleen, and Cholerick Zeal enrage,</l>
+               <l>By taxing the lewd Saints oth' preſent Age.</l>
+            </lg>
+            <lg>
+               <l>'Tis pleaſant to obſerve, how each grave Wretch,</l>
+               <l>Or Whining Oracle has learnt to fetch,</l>
+               <l>And carry News; and foot it up and down</l>
+               <l>To purchaſe Tales of ev'ry Canting Clown:</l>
+               <l>If ſped, he triumphs; if he fails, he grieves;</l>
+               <l>For on ſuch Rubbiſh he depends and lives.</l>
+               <l>His tender, nice, diſtemper'd, ſqueamiſh Soul</l>
+               <l>Feeds upon Traſh, and Stories that are foul:</l>
+               <l>Theſe are his Daily Bread, his Morning Draught,</l>
+               <l>His Midnight Exerciſe, and waking Thought.</l>
+               <l>With a ſhrew'd Nod he'll ſometimes intimate</l>
+               <l>Somewhat he can, but w'ont Communicate:</l>
+               <l>You'd think he had Degree of Wiſeman took</l>
+               <l>From Hieroglyphick Schemes, or Almanack-Book.</l>
+            </lg>
+            <lg>
+               <l>Next 'twards the King his random courſe he ſteers;</l>
+               <l>And Honours him, juſt as his God he fears:</l>
+               <l>If Rulers will his Darling Ends advance,</l>
+               <l>He deviates into Loyalty by chance:</l>
+               <l>
+                  <pb n="12" facs="tcp:34132:8"/>
+But ſtill the Sacred Rights of Maieſty</l>
+               <l>Are beams oth' Multitude, not Deity:</l>
+               <l>O rare Invention! a poor ſenſleſs Clod</l>
+               <l>Become th' Almighty Parent of a God.</l>
+               <l>Eternal Chaos of diſtracted thought!</l>
+               <l>Surely to ſuch Tranſub's an eaſie draught.</l>
+               <l>Pow'r can no more this dull way be infus'd,</l>
+               <l>Than out of Matter ſprightly form educ'd.</l>
+               <l>Vapours may cloud the Sun, not make it bright.</l>
+               <l>And <hi>Mob</hi> may Kings Eclipſe, not give 'em Light.</l>
+               <l>Thrice wretched they, who've learnt th' accurſed thing</l>
+               <l>To Dawb Divinity, and Debaſe a King;</l>
+               <l>A Notion which all Sacred Claim deſtroys;</l>
+               <l>And the tame Monarch all his Life enjoys</l>
+               <l>A Dream of Majeſty, a Fairy Crown,</l>
+               <l>A Mummer's Scepter, and a Play'er's Throne.</l>
+            </lg>
+            <lg>
+               <l>(May Valiant <hi>William</hi> ſhare a Nobler Fate;</l>
+               <l>And ever live, as he do's fight, in State.)</l>
+            </lg>
+            <lg>
+               <l>Such Men may ſearch for Truth in <hi>Pagan</hi> Schools,</l>
+               <l>And learn Allegiance from rude <hi>Indian</hi> Scrolls:</l>
+               <l>They never think on Means, but view the End;</l>
+               <l>And ſerve their God, as <hi>Montaigne</hi> wou'd his Friend.</l>
+               <l>And when they've Libell'd Kings, and Temples ſtorm'd;</l>
+               <l>They e'en may go to <hi>Rome</hi> to be Reform'd.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <p>Printed and are to be Sold by the Bookſellers of <hi>London</hi> and <hi>Weſtminſter. Price</hi> 3 <hi>d.</hi>
+            </p>
+         </div>
+         <div type="publishers_advertisement">
+            <head>ADVERTISEMENT.</head>
+            <p>THE Loyal and Impartial Satyriſt: Containing Eight Miſ<g ref="char:EOLhyphen"/>cellany Poems. Price 6 <hi>d.</hi>
+            </p>
+            <p>A Poſie for Lovers: Or the Terreſtrial <hi>Venus</hi> Unmask't. Price 6 d. Both Printed for <hi>Thomas Speed,</hi> at the <hi>Three Crowns</hi> in <hi>Cornhil,</hi> near the <hi>Royal Exchange.</hi> 1694.</p>
+            <pb facs="tcp:34132:8"/>
+         </div>
+      </back>
+   </text>
+</TEI>
